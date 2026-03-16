@@ -1,0 +1,8 @@
+<IfModule mod_headers.c>
+  # CORS for virtual-tour static assets (tiles, images, xml, audio, scripts)
+  <FilesMatch "\.(xml|jpg|jpeg|png|gif|webp|svg|mp3|m4a|js|css|json)$">
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, OPTIONS"
+    Header set Access-Control-Allow-Headers "Origin, Content-Type, Accept, Range"
+  </FilesMatch>
+</IfModule>
