@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Виртуальная экскурсия по Sber</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="mobile-web-app-capable" content="yes" />
+
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      overflow: hidden;
+      background: #000;
+      font-family: "Inter", "Segoe UI", sans-serif;
+      color: #fff;
+    }
+
+    /* Контейнер панорамы */
+    #container {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+
+    /* === Стеклянная панель управления === */
+    .control-panel {
+      position: absolute;
+      top: 24px;
+      left: 24px;
+      width: 230px;
+      padding: 18px;
+      border-radius: 18px;
+      background: rgba(255, 255, 255, 0.12);
+      backdrop-filter: blur(16px) saturate(180%);
+      -webkit-backdrop-filter: blur(16px) saturate(180%);
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.25);
+      font-family: "Inter", "Segoe UI", sans-serif;
+      transition: all 0.3s ease;
+      color: #fff;
+      z-index: 9999;
+      animation: fadeIn 0.6s ease;
+    }
+
+    @keyframes fadeIn {
+      from {opacity: 0; transform: translateY(-10px);}
+      to {opacity: 1; transform: translateY(0);}
+    }
+
+    .control-panel button {
+      width: 100%;
+      border: none;
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.15);
+      color: #fff;
+      font-size: 15px;
+      font-weight: 500;
+      padding: 10px 0;
+      cursor: pointer;
+      transition: 0.25s;
+      letter-spacing: 0.3px;
+      text-shadow: 0 0 6px rgba(0,255,128,0.5);
+    }
+
+    .control-panel button:hover {
+      background: rgba(72, 255, 149, 0.25);
+      box-shadow: 0 0 15px rgba(72, 255, 149, 0.4);
+    }
+
+    .volume-container {
+      margin-top: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .volume-container span {
+      font-size: 12px;
+      color: #d8d8d8;
+    }
+
+    input[type="range"] {
+      flex: 1;
+      appearance: none;
+      height: 4px;
+      border-radius: 2px;
+      background: linear-gradient(90deg, #00ff9d, #00d084);
+      outline: none;
+      transition: all 0.2s;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      appearance: none;
+      width: 16px;
+      height: 16px;
+      background: #00ff9d;
+      border-radius: 50%;
+      cursor: pointer;
+      box-shadow: 0 0 10px #00ff9d;
+      transition: 0.2s;
+    }
+
+    input[type="range"]::-webkit-slider-thumb:hover {
+      transform: scale(1.3);
+    }
+
+    .dots {
+      text-align: center;
+      margin-top: 8px;
+      font-size: 22px;
+      cursor: pointer;
+      user-select: none;
+      color: #9fffc7;
+      text-shadow: 0 0 8px rgba(0,255,150,0.6);
+      transition: 0.2s;
+    }
+
+    .dots:hover {
+      transform: scale(1.2);
+      color: #00ff9d;
+    }
+
+    .menu {
+      display: none;
+      flex-direction: column;
+      margin-top: 10px;
+      padding-top: 10px;
+      border-top: 1px solid rgba(255, 255, 255, 0.3);
+      animation: fadeIn 0.25s ease;
+    }
+
+    .menu a {
+      text-decoration: none;
+      color: #fff;
+      font-size: 14px;
+      margin: 6px 0;
+      letter-spacing: 0.3px;
+      transition: color 0.2s, text-shadow 0.2s;
+    }
+
+    .menu a:hover {
+      color: #00ff9d;
+      text-shadow: 0 0 6px #00ff9d;
+    }
+
+    .menu a.green {
+      color: #00ff9d;
+      font-weight: 600;
+      text-shadow: 0 0 8px #00ff9d;
+    }
+
+    /* Логотип внизу */
+    .footer-logo {
+      position: absolute;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 9999;
+      text-align: center;
+      animation: fadeIn 1.5s ease;
+    }
+
+    .footer-logo img {
+      width: 260px;
+      opacity: 0.85;
+      transition: opacity 0.3s ease, filter 0.3s ease;
+      filter: drop-shadow(0 0 8px rgba(255,255,255,0.4));
+    }
+
+    .footer-logo img:hover {
+      opacity: 1;
+      filter: drop-shadow(0 0 12px rgba(255,255,255,0.8));
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Аудио -->
+  <audio id="bgmusic" src="/sber/media/sound.mp3" loop></audio>
+
+  <!-- Панорама -->
+  <script src="pano2vr_player.js"></script>
+  <script src="skin.js"></script>
+
+  <div id="container">
+    <br>Загрузка контента...<br><br>
+  </div>
+
+  <!-- Панель управления -->
+  <div class="control-panel">
+    <button id="audio-toggle-btn">Включить звук</button>
+
+    <div class="volume-container">
+      <span>0</span>
+      <input type="range" id="volume-slider" min="0" max="1" step="0.01" value="0.8">
+      <span>100</span>
+    </div>
+
+    <div class="dots" id="menuToggle">⋯</div>
+
+    <div class="menu" id="menu">
+     <a href="#" id="restartScene">Перезапустить</a>
+      <a href="https://sberdevices.ru/" target="_blank" class="green">Сбер</a>
+      <a>Санкт-Петербург,<br>ул. Уральская, 1</a>
+    </div>
+  </div>
+
+  <!-- Логотип Академии -->
+  <div class="footer-logo">
+    <a href="https://adtspb.ru/" target="_blank">
+      <img src="/sber/logoadt.svg" alt="Академия Технического Творчества и Цифровых Технологий">
+    </a>
+  </div>
+
+  <script>
+    // === Инициализация панорамы ===
+    window.pano = new pano2vrPlayer("container");
+    const skin = new pano2vrSkin(pano);
+    window.addEventListener("load", function() {
+      pano.readConfigUrlAsync("pano.xml");
+    });
+
+    // === Управление звуком ===
+    const audio = document.getElementById('bgmusic');
+    const btn = document.getElementById('audio-toggle-btn');
+    const slider = document.getElementById('volume-slider');
+    const menuToggle = document.getElementById('menuToggle');
+    const menu = document.getElementById('menu');
+    const restartBtn = document.getElementById('restartScene');
+    let isPlaying = false;
+
+    btn.addEventListener('click', function () {
+      if (!isPlaying) {
+        audio.play().then(() => {
+          isPlaying = true;
+          btn.textContent = "Выключить звук";
+        }).catch((err) => {
+          alert("Разрешите воспроизведение звука (нажмите на экран).");
+          console.log(err);
+        });
+      } else {
+        audio.pause();
+        isPlaying = false;
+        btn.textContent = "Включить звук";
+      }
+    });
+
+    slider.addEventListener('input', function () {
+      audio.volume = parseFloat(slider.value);
+    });
+
+    menuToggle.addEventListener('click', () => {
+      menu.style.display = menu.style.display === "flex" ? "none" : "flex";
+    });
+
+    restartBtn.addEventListener('click', (e) => {
+      e.preventDefault();
+      if (window.pano && pano.openNext) {
+        pano.openNext("pano.xml", null, "1");
+      } else {
+        location.reload();
+      }
+    });
+  </script>
+</body>
+</html>
