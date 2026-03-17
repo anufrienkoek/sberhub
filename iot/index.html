@@ -227,6 +227,45 @@
       pano.readConfigUrlAsync("pano.xml");
     });
 
+    // === Limited prefetch (2 panoramas before/after) ===
+    // Prime only nearby nodes using the low-res level (l_1): one tile per cube face.
+    const IOT_TILE_BASE = "https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/";
+    const prefetchedNodes = new Set();
+    let prefetchTimer = null;
+
+    function preloadLowResTilesForNode(nodeId) {
+      if (!nodeId || prefetchedNodes.has(nodeId)) return;
+      prefetchedNodes.add(nodeId);
+      for (let cf = 0; cf < 6; cf++) {
+        const img = new Image();
+        img.crossOrigin = "anonymous";
+        img.src = `${IOT_TILE_BASE}${nodeId}/cf_${cf}/l_1/c_0/tile_0.jpg`;
+      }
+    }
+
+    function prefetchNeighbors() {
+      const ids = (window.pano && typeof window.pano.getNodeIds === "function") ? window.pano.getNodeIds() : [];
+      const current = (window.pano && typeof window.pano.getCurrentNode === "function") ? window.pano.getCurrentNode() : "";
+      if (!ids.length || !current) return;
+
+      const idx = ids.indexOf(current);
+      if (idx < 0) return;
+
+      const offsets = [-2, -1, 1, 2];
+      for (const off of offsets) {
+        const ni = (idx + off + ids.length) % ids.length;
+        preloadLowResTilesForNode(ids[ni]);
+      }
+    }
+
+    function schedulePrefetch() {
+      if (prefetchTimer) clearTimeout(prefetchTimer);
+      prefetchTimer = setTimeout(prefetchNeighbors, 150);
+    }
+
+    pano.addListener("changenodeid", schedulePrefetch);
+    setTimeout(schedulePrefetch, 800);
+
     // === Управление звуком ===
     const audio = document.getElementById('bgmusic');
     const btn = document.getElementById('audio-toggle-btn');
