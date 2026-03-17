@@ -3,7 +3,7 @@
   <panorama id="node2">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -26,7 +26,7 @@
   <panorama id="node1">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -50,7 +50,7 @@
   <panorama id="node3">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -76,7 +76,7 @@
   <panorama id="node4">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -101,7 +101,7 @@
   <panorama id="node6">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -126,7 +126,7 @@
   <panorama id="node5">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -149,7 +149,7 @@
   <panorama id="node7">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -173,7 +173,7 @@
   <panorama id="node8">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -199,7 +199,7 @@
   <panorama id="node9">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -223,7 +223,7 @@
   <panorama id="node10">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -248,7 +248,7 @@
   <panorama id="node12">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -272,7 +272,7 @@
   <panorama id="node13">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -296,7 +296,7 @@
   <panorama id="node14">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -320,7 +320,7 @@
   <panorama id="node15">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -344,7 +344,7 @@
   <panorama id="node16">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -369,7 +369,7 @@
   <panorama id="node17">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -393,7 +393,7 @@
   <panorama id="node18">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -417,7 +417,7 @@
   <panorama id="node19">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -441,7 +441,7 @@
   <panorama id="node20">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -465,7 +465,7 @@
   <panorama id="node21">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -489,7 +489,7 @@
   <panorama id="node22">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -513,7 +513,7 @@
   <panorama id="node23">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -537,7 +537,7 @@
   <panorama id="node24">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -561,7 +561,7 @@
   <panorama id="node25">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -585,7 +585,7 @@
   <panorama id="node31">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -610,7 +610,7 @@
   <panorama id="node26">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -634,7 +634,7 @@
   <panorama id="node27">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -658,7 +658,7 @@
   <panorama id="node28">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -681,7 +681,7 @@
   <panorama id="node30">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -704,7 +704,7 @@
   <panorama id="node32">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -729,7 +729,7 @@
   <panorama id="node33">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -753,7 +753,7 @@
   <panorama id="node34">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -778,7 +778,7 @@
   <panorama id="node35">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -802,7 +802,7 @@
   <panorama id="node36">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -826,7 +826,7 @@
   <panorama id="node60">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -850,7 +850,7 @@
   <panorama id="node37">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -876,7 +876,7 @@
   <panorama id="node38">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -899,7 +899,7 @@
   <panorama id="node39">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -924,7 +924,7 @@
   <panorama id="node41">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -948,7 +948,7 @@
   <panorama id="node42">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -972,7 +972,7 @@
   <panorama id="node44">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -997,7 +997,7 @@
   <panorama id="node45">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1021,7 +1021,7 @@
   <panorama id="node46">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1044,7 +1044,7 @@
   <panorama id="node47">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1070,7 +1070,7 @@
   <panorama id="node48">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1094,7 +1094,7 @@
   <panorama id="node49">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1119,7 +1119,7 @@
   <panorama id="node50">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1145,7 +1145,7 @@
   <panorama id="node51">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1169,7 +1169,7 @@
   <panorama id="node52">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1192,7 +1192,7 @@
   <panorama id="node53">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1215,7 +1215,7 @@
   <panorama id="node55">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1239,7 +1239,7 @@
   <panorama id="node56">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1264,7 +1264,7 @@
   <panorama id="node57">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1287,7 +1287,7 @@
   <panorama id="node58">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1312,7 +1312,7 @@
   <panorama id="node59">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1336,7 +1336,7 @@
   <panorama id="node61">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1360,7 +1360,7 @@
   <panorama id="node62">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1386,7 +1386,7 @@
   <panorama id="node63">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1412,7 +1412,7 @@
   <panorama id="node64">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1435,7 +1435,7 @@
   <panorama id="node65">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1458,7 +1458,7 @@
   <panorama id="node66">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1481,7 +1481,7 @@
   <panorama id="node67">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1505,7 +1505,7 @@
   <panorama id="node68">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1530,7 +1530,7 @@
   <panorama id="node70">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1555,7 +1555,7 @@
   <panorama id="node69">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1578,7 +1578,7 @@
   <panorama id="node71">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1602,7 +1602,7 @@
   <panorama id="node72">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1628,7 +1628,7 @@
   <panorama id="node73">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1653,7 +1653,7 @@
   <panorama id="node74">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1676,7 +1676,7 @@
   <panorama id="node75">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1701,7 +1701,7 @@
   <panorama id="node76">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1726,7 +1726,7 @@
   <panorama id="node77">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1750,7 +1750,7 @@
   <panorama id="node78">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1775,7 +1775,7 @@
   <panorama id="node79">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1798,7 +1798,7 @@
   <panorama id="node80">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1823,7 +1823,7 @@
   <panorama id="node81">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1846,7 +1846,7 @@
   <panorama id="node82">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1870,7 +1870,7 @@
   <panorama id="node83">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1896,7 +1896,7 @@
   <panorama id="node84">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1919,7 +1919,7 @@
   <panorama id="node85">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1943,7 +1943,7 @@
   <panorama id="node86">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1969,7 +1969,7 @@
   <panorama id="node87">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -1995,7 +1995,7 @@
   <panorama id="node89">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2018,7 +2018,7 @@
   <panorama id="node90">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2041,7 +2041,7 @@
   <panorama id="node91">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2067,7 +2067,7 @@
   <panorama id="node92">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2090,7 +2090,7 @@
   <panorama id="node93">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2113,7 +2113,7 @@
   <panorama id="node94">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2137,7 +2137,7 @@
   <panorama id="node95">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node95/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2164,7 +2164,7 @@
   <panorama id="node97">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node97/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2188,7 +2188,7 @@
   <panorama id="node98">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node98/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2213,7 +2213,7 @@
   <panorama id="node99">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node99/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2237,7 +2237,7 @@
   <panorama id="node100">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node100/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2262,7 +2262,7 @@
   <panorama id="node101">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node101/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2285,7 +2285,7 @@
   <panorama id="node102">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node102/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2309,7 +2309,7 @@
   <panorama id="node103">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node103/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2333,7 +2333,7 @@
   <panorama id="node105">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node105/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2358,7 +2358,7 @@
   <panorama id="node106">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node106/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2381,7 +2381,7 @@
   <panorama id="node117">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2405,7 +2405,7 @@
   <panorama id="node107">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node107/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2430,7 +2430,7 @@
   <panorama id="node108">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node108/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2454,7 +2454,7 @@
   <panorama id="node109">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node109/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2479,7 +2479,7 @@
   <panorama id="node110">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node110/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2503,7 +2503,7 @@
   <panorama id="node111">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node111/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2527,7 +2527,7 @@
   <panorama id="node112">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node112/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2551,7 +2551,7 @@
   <panorama id="node113">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node113/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2575,7 +2575,7 @@
   <panorama id="node114">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node114/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2598,7 +2598,7 @@
   <panorama id="node115">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node115/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2624,7 +2624,7 @@
   <panorama id="node116">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2648,7 +2648,7 @@
   <panorama id="node104">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node104/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2672,7 +2672,7 @@
   <panorama id="node118">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node118/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2696,7 +2696,7 @@
   <panorama id="node119">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node119/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2723,7 +2723,7 @@
   <panorama id="node120">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node120/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2747,7 +2747,7 @@
   <panorama id="node121">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node121/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2772,7 +2772,7 @@
   <panorama id="node122">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node122/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2796,7 +2796,7 @@
   <panorama id="node123">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node123/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2821,7 +2821,7 @@
   <panorama id="node124">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node124/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2844,7 +2844,7 @@
   <panorama id="node125">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node125/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2869,7 +2869,7 @@
   <panorama id="node127">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node127/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2892,7 +2892,7 @@
   <panorama id="node141">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node141/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2917,7 +2917,7 @@
   <panorama id="node128">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2941,7 +2941,7 @@
   <panorama id="node130">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node130/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2966,7 +2966,7 @@
   <panorama id="node131">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node131/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -2990,7 +2990,7 @@
   <panorama id="node133">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node133/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3014,7 +3014,7 @@
   <panorama id="node134">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node134/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3039,7 +3039,7 @@
   <panorama id="node135">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node135/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3063,7 +3063,7 @@
   <panorama id="node137">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node137/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3087,7 +3087,7 @@
   <panorama id="node138">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node138/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3111,7 +3111,7 @@
   <panorama id="node146">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node146/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3135,7 +3135,7 @@
   <panorama id="node147">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node147/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3160,7 +3160,7 @@
   <panorama id="node148">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node148/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3183,7 +3183,7 @@
   <panorama id="node149">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node149/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3208,7 +3208,7 @@
   <panorama id="node150">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node150/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3232,7 +3232,7 @@
   <panorama id="node142">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node142/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3257,7 +3257,7 @@
   <panorama id="node143">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node143/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3280,7 +3280,7 @@
   <panorama id="node144">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node144/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3304,7 +3304,7 @@
   <panorama id="node151">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node151/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3331,7 +3331,7 @@
   <panorama id="node152">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node152/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3354,7 +3354,7 @@
   <panorama id="node153">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node153/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3377,7 +3377,7 @@
   <panorama id="node154">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node154/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3400,7 +3400,7 @@
   <panorama id="node155">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node155/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3426,7 +3426,7 @@
   <panorama id="node156">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node156/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3450,7 +3450,7 @@
   <panorama id="node157">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node157/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3478,7 +3478,7 @@
   <panorama id="node159">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node159/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3501,7 +3501,7 @@
   <panorama id="node160">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node160/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3524,7 +3524,7 @@
   <panorama id="node161">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node161/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3547,7 +3547,7 @@
   <panorama id="node162">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node162/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3571,7 +3571,7 @@
   <panorama id="node163">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node163/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3596,7 +3596,7 @@
   <panorama id="node165">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node165/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3621,7 +3621,7 @@
   <panorama id="node166">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node166/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3645,7 +3645,7 @@
   <panorama id="node167">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node167/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3668,7 +3668,7 @@
   <panorama id="node169">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node169/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3693,7 +3693,7 @@
   <panorama id="node171">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node171/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3716,7 +3716,7 @@
   <panorama id="node172">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node172/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3741,7 +3741,7 @@
   <panorama id="node174">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node174/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3766,7 +3766,7 @@
   <panorama id="node175">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node175/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3790,7 +3790,7 @@
   <panorama id="node176">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node176/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3813,7 +3813,7 @@
   <panorama id="node177">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node177/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3837,7 +3837,7 @@
   <panorama id="node178">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node178/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3862,7 +3862,7 @@
   <panorama id="node180">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node180/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3887,7 +3887,7 @@
   <panorama id="node181">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node181/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3910,7 +3910,7 @@
   <panorama id="node190">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node190/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3936,7 +3936,7 @@
   <panorama id="node184">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node184/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3962,7 +3962,7 @@
   <panorama id="node185">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node185/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -3986,7 +3986,7 @@
   <panorama id="node186">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node186/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4010,7 +4010,7 @@
   <panorama id="node187">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node187/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4034,7 +4034,7 @@
   <panorama id="node188">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node188/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4058,7 +4058,7 @@
   <panorama id="node189">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node189/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4081,7 +4081,7 @@
   <panorama id="node191">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node191/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4107,7 +4107,7 @@
   <panorama id="node192">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node192/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4133,7 +4133,7 @@
   <panorama id="node195">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node195/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4156,7 +4156,7 @@
   <panorama id="node196">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node196/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4179,7 +4179,7 @@
   <panorama id="node197">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node197/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4202,7 +4202,7 @@
   <panorama id="node199">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node199/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4226,7 +4226,7 @@
   <panorama id="node200">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node200/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4251,7 +4251,7 @@
   <panorama id="node212">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node212/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4276,7 +4276,7 @@
   <panorama id="node201">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node201/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4300,7 +4300,7 @@
   <panorama id="node202">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node202/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4323,7 +4323,7 @@
   <panorama id="node203">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node203/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4348,7 +4348,7 @@
   <panorama id="node204">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node204/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4373,7 +4373,7 @@
   <panorama id="node205">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node205/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4398,7 +4398,7 @@
   <panorama id="node206">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node206/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4421,7 +4421,7 @@
   <panorama id="node207">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node207/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4445,7 +4445,7 @@
   <panorama id="node208">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node208/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4471,7 +4471,7 @@
   <panorama id="node209">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node209/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4494,7 +4494,7 @@
   <panorama id="node210">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node210/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4519,7 +4519,7 @@
   <panorama id="node213">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node213/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4544,7 +4544,7 @@
   <panorama id="node214">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node214/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4568,7 +4568,7 @@
   <panorama id="node215">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node215/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4591,7 +4591,7 @@
   <panorama id="node216">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node216/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4616,7 +4616,7 @@
   <panorama id="node217">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node217/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4639,7 +4639,7 @@
   <panorama id="node218">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node218/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4664,7 +4664,7 @@
   <panorama id="node219">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node219/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4687,7 +4687,7 @@
   <panorama id="node220">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node220/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4713,7 +4713,7 @@
   <panorama id="node235">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node235/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4737,7 +4737,7 @@
   <panorama id="node236">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node236/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4763,7 +4763,7 @@
   <panorama id="node265">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node265/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4785,7 +4785,7 @@
   <panorama id="node221">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node221/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4810,7 +4810,7 @@
   <panorama id="node222">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node222/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4833,7 +4833,7 @@
   <panorama id="node223">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node223/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4859,7 +4859,7 @@
   <panorama id="node224">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node224/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4882,7 +4882,7 @@
   <panorama id="node225">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node225/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4905,7 +4905,7 @@
   <panorama id="node226">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node226/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4929,7 +4929,7 @@
   <panorama id="node227">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node227/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4955,7 +4955,7 @@
   <panorama id="node228">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node228/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -4979,7 +4979,7 @@
   <panorama id="node229">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node229/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5003,7 +5003,7 @@
   <panorama id="node230">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node230/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5026,7 +5026,7 @@
   <panorama id="node231">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node231/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5051,7 +5051,7 @@
   <panorama id="node232">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node232/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5074,7 +5074,7 @@
   <panorama id="node233">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node233/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5098,7 +5098,7 @@
   <panorama id="node234">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node234/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5121,7 +5121,7 @@
   <panorama id="node237">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node237/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5144,7 +5144,7 @@
   <panorama id="node238">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node238/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5168,7 +5168,7 @@
   <panorama id="node239">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node239/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5191,7 +5191,7 @@
   <panorama id="node241">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node241/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5215,7 +5215,7 @@
   <panorama id="node242">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node242/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5240,7 +5240,7 @@
   <panorama id="node243">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node243/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5263,7 +5263,7 @@
   <panorama id="node244">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node244/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5287,7 +5287,7 @@
   <panorama id="node245">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node245/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5312,7 +5312,7 @@
   <panorama id="node246">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node246/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5335,7 +5335,7 @@
   <panorama id="node247">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node247/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5359,7 +5359,7 @@
   <panorama id="node248">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node248/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5383,7 +5383,7 @@
   <panorama id="node249">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node249/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5407,7 +5407,7 @@
   <panorama id="node250">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node250/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5431,7 +5431,7 @@
   <panorama id="node251">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node251/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5455,7 +5455,7 @@
   <panorama id="node253">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node253/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5479,7 +5479,7 @@
   <panorama id="node255">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node255/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5503,7 +5503,7 @@
   <panorama id="node256">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node256/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5527,7 +5527,7 @@
   <panorama id="node257">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node257/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5551,7 +5551,7 @@
   <panorama id="node258">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node258/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5574,7 +5574,7 @@
   <panorama id="node259">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node259/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5598,7 +5598,7 @@
   <panorama id="node261">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node261/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5622,7 +5622,7 @@
   <panorama id="node263">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node263/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5646,7 +5646,7 @@
   <panorama id="node266">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node266/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
@@ -5669,7 +5669,7 @@
   <panorama id="node267">
     <input levelbiashidpi="0.400" height="960" leveltilesize="510" levelingroll="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/hub/tiles/node267/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelingpitch="0" width="960" overlap="1">
       <level height="960" predecode="0" preload="0" width="960"/>
-      <level height="480" predecode="1" preload="1" width="480"/>
+      <level height="480" predecode="1" preload="0" width="480"/>
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
