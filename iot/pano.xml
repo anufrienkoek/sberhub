@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="15996" appversion="5.2.4" start="node1">
   <panorama id="node1">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -25,7 +25,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node2">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -50,7 +50,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node3">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -75,7 +75,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node4">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -100,7 +100,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node5">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -126,7 +126,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node6">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -150,7 +150,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node10">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -178,7 +178,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node7">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -203,7 +203,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node8">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -228,7 +228,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node9">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -254,7 +254,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node11">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -280,7 +280,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node12">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
@@ -304,7 +304,7 @@
     <control dblclickfullscreen="0" speedwheel="1" rubberband="0" lockedmouse="0" invertcontrol="1" lockedwheel="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" contextprojections="0" lockedkeyboardzoom="0" contextfullscreen="0" simulatemass="1" hideabout="0"/>
   </panorama>
   <panorama id="node13">
-    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://calleugene.ru/sber/iot/tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
+    <input height="960" levelbiashidpi="0.400" width="960" leveltilesize="510" levelbias="0.400" overlap="1" levelingpitch="0" leveltileurl="https://s3.twcstorage.ru/46dd74ad-a955-4ba7-b597-e9f2926aaafa/sber/iot/tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0">
       <level preload="0" height="960" width="960" predecode="0"/>
       <level preload="1" height="480" width="480" predecode="1"/>
       <preview strip="1" color="0x808080"/>
