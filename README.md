@@ -75,3 +75,43 @@ curl -I "https://s3.twcstorage.ru/<bucket>/sber/hub/tiles/node2/cf_0/l_0/c_0/til
 ## Безопасность
 
 Никогда не публикуйте ключи доступа S3/Swift. Если ключи случайно утекли, их нужно отозвать и выпустить новые.
+
+## Встраивание
+
+Скрипт вставки позволяет встраивать любой тур в страницу через `iframe`; `width`/`height` можно адаптировать под контент, а `referrerpolicy` и `loading` уже безопасны.
+
+```html
+<iframe
+  src="https://anufrienkoek.github.io/sberhub/hub/"
+  width="100%"
+  height="700"
+  frameborder="0"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="strict-origin-when-cross-origin"
+></iframe>
+```
+
+```html
+<iframe
+  src="https://anufrienkoek.github.io/sberhub/iot/"
+  width="100%"
+  height="700"
+  frameborder="0"
+  allowfullscreen
+  loading="lazy"
+  referrerpolicy="strict-origin-when-cross-origin"
+></iframe>
+```
+
+```html
+<div style="position:relative;width:100%;height:0;padding-bottom:56.25%;overflow:hidden;border-radius:16px;">
+  <iframe
+    src="https://anufrienkoek.github.io/sberhub/hub/"
+    style="position:absolute;inset:0;width:100%;height:100%;border:0;"
+    allowfullscreen
+    loading="lazy"
+    referrerpolicy="strict-origin-when-cross-origin"
+  ></iframe>
+</div>
+```
