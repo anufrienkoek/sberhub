@@ -222,6 +222,9 @@
   <script>
     // === Инициализация панорамы ===
     window.pano = new pano2vrPlayer("container");
+    const isMobileDevice = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+    pano.qg = isMobileDevice ? 8 : 16;
+    pano.setMaxTileCount(isMobileDevice ? 160 : 320);
     const skin = new pano2vrSkin(pano);
     window.addEventListener("load", () => {
       pano.readConfigUrlAsync("pano.xml");
